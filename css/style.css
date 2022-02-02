@@ -1,0 +1,28 @@
+@import "null.css";
+
+h1 {
+	color: brown;
+}
+p {
+	color: cadetblue;
+}
+.text {
+	color: chartreuse;
+}
+p.main-text,
+.text {
+	color: darkblue;
+}
+#one {
+	color: darkmagenta;
+}
+ul {
+	color: deeppink;
+}
+.subtitle {
+	color: goldenrod;
+}
+
+.box > p {
+	color: firebrick;
+}
